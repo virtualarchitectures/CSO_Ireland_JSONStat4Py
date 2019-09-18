@@ -1,2 +1,3 @@
-# CSO_Ireland_JSONStat4Py
-Repository for accessing data from Central Statistics Office (CSO) API with JSON-stat for Python
+# Accessing the Central Statistics Office (CSO) API with JSON-stat for Python
+This repository contains a Jupyter notebook demonstrating how to access the Statbank API for Central Statistics Office (CSO) Ireland.
+The [Statbank API](https://www.cso.ie/webserviceclient/) utilises the [JSON-stat](https://www.cso.ie/webserviceclient/) format for encoding statistical information. This can be accessed using the [jsonstat.py](https://github.com/26fe/jsonstat.py) library for Python by [Giovanni F](http://www.26fe.com/). Further documentation is available online: [jsonstat.py](https://jsonstatpy.readthedocs.io/en/latest/).
